@@ -7,7 +7,7 @@ Start to do feature classification:
 ```
 $ python classification.py -h
 
-usage: classification.py [-h] [--model MODEL] [--imp IMP] [--fd FD]
+usage: classification.py [-h] [--model MODEL] [--imp IMP]
 
 optional arguments:
   -h, --help     show this help message and exit
@@ -15,7 +15,7 @@ optional arguments:
                  and lr (logistic regression).
   --imp IMP      whether to plot feature importance in random forest, True or
                  False, require selecting random forest first if True.
-  --fd FD        path of features
+                 
 ```
 If you want to generate the features from scratch:
 ```

@@ -5,6 +5,7 @@ The dataset in this project is not publicly available and only used for this cou
 Google Drive: https://drive.google.com/file/d/1fay7AFjkgrEO_31Q5zbvrD0z20QqW6pI/view?usp=share_link
 
 The "dataset" should be placed in the "scripts" fold as .../scripts/dataset/...
+
 Then start to do feature classification:
 ```
 $ python classification.py -h
